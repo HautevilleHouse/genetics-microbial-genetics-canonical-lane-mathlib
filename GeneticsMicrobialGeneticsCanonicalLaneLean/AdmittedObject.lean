@@ -1,0 +1,8 @@
+namespace HautevilleHouse
+namespace GeneticsMicrobialGeneticsCanonicalLaneLean
+
+structure AdmittedObject where
+  conclusion : Prop
+
+end GeneticsMicrobialGeneticsCanonicalLaneLean
+end HautevilleHouse
